@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Herr+Von+Muellerhoff&display=swap');
+
+body {
+    font-family: sans-serif;
+    background: hsl(0, 0%, 73%)  transparent;
+    background-size: cover;
+    background-position: left top;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1100%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='url(%23SvgjsLinearGradient1101)'%3e%3c/rect%3e%3cpath d='M1001.081%2c434.939C1031.076%2c435.969%2c1061.958%2c424.284%2c1076.564%2c398.065C1090.867%2c372.39%2c1081.774%2c341.833%2c1067.149%2c316.34C1052.435%2c290.692%2c1030.647%2c266.886%2c1001.081%2c266.492C970.99%2c266.091%2c945.963%2c287.936%2c931.892%2c314.538C918.751%2c339.381%2c920.069%2c368.805%2c934.072%2c393.172C948.128%2c417.631%2c972.888%2c433.971%2c1001.081%2c434.939' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M292.94 128.5 a112.04 112.04 0 1 0 224.08 0 a112.04 112.04 0 1 0 -224.08 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1009.377%2c379.216C1024.954%2c379.033%2c1040.953%2c375.386%2c1049.628%2c362.447C1059.304%2c348.015%2c1061.704%2c329.059%2c1053.14%2c313.941C1044.471%2c298.637%2c1026.935%2c290.34%2c1009.377%2c291.391C993.396%2c292.348%2c981.891%2c304.853%2c973.837%2c318.689C965.717%2c332.639%2c959.278%2c349.495%2c967.451%2c363.414C975.556%2c377.217%2c993.371%2c379.404%2c1009.377%2c379.216' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M179.721%2c387.147C236.655%2c390.082%2c293.306%2c359.833%2c318.746%2c308.814C342.192%2c261.793%2c318.498%2c209.064%2c290.775%2c164.431C265.036%2c122.992%2c228.5%2c84.486%2c179.721%2c84.991C131.587%2c85.489%2c95.833%2c124.542%2c72.579%2c166.689C50.266%2c207.131%2c43.301%2c254.111%2c63.491%2c295.654C86.591%2c343.185%2c126.944%2c384.426%2c179.721%2c387.147' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1161.09 256.06 a185.59 185.59 0 1 0 371.18 0 a185.59 185.59 0 1 0 -371.18 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M1299.476%2c367.479C1332.817%2c367.22%2c1359.944%2c343.632%2c1376.4%2c314.634C1392.614%2c286.063%2c1396.664%2c252.003%2c1381.567%2c222.827C1365.172%2c191.142%2c1335.147%2c165.425%2c1299.476%2c165.972C1264.518%2c166.508%2c1237.94%2c194.353%2c1221.634%2c225.28C1206.543%2c253.903%2c1204.92%2c287.459%2c1220.458%2c315.843C1236.651%2c345.425%2c1265.753%2c367.741%2c1299.476%2c367.479' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M686.206%2c679.683C722.791%2c679.665%2c754.852%2c658.488%2c774.323%2c627.515C795.319%2c594.117%2c808.441%2c551.606%2c787.892%2c517.932C767.89%2c485.154%2c724.56%2c481.259%2c686.206%2c483.115C651.763%2c484.782%2c618.225%2c497.587%2c600.248%2c527.013C581.508%2c557.689%2c580.299%2c596.28%2c597.935%2c627.603C615.899%2c659.509%2c649.59%2c679.701%2c686.206%2c679.683' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M985.4 40.12 a119.37 119.37 0 1 0 238.74 0 a119.37 119.37 0 1 0 -238.74 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M421.12 405.63 a114.13 114.13 0 1 0 228.26 0 a114.13 114.13 0 1 0 -228.26 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M931.466%2c688.899C995.294%2c693.833%2c1056.459%2c652.526%2c1083.884%2c594.68C1108.404%2c542.961%2c1082.2%2c485.606%2c1050.412%2c438.008C1022.87%2c396.768%2c981.05%2c367.318%2c931.466%2c366.457C880.34%2c365.57%2c830.174%2c389.161%2c805.148%2c433.752C780.582%2c477.524%2c792.774%2c528.915%2c815.044%2c573.898C840.983%2c626.292%2c873.176%2c684.393%2c931.466%2c688.899' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M617.628%2c367.574C639.67%2c366.923%2c654.329%2c347.474%2c665.267%2c328.326C676.087%2c309.384%2c684.971%2c287.121%2c674.522%2c267.973C663.748%2c248.23%2c640.119%2c241.128%2c617.628%2c241.028C594.929%2c240.927%2c571.311%2c247.869%2c559.854%2c267.465C548.31%2c287.21%2c553.422%2c311.48%2c564.855%2c331.29C576.292%2c351.107%2c594.758%2c368.249%2c617.628%2c367.574' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M437.995%2c617.7C487.998%2c614.909%2c521.922%2c572.016%2c545.639%2c527.907C567.802%2c486.687%2c576.906%2c439.46%2c556.469%2c397.357C533.142%2c349.3%2c491.411%2c305.587%2c437.995%2c306.141C385.213%2c306.689%2c349.351%2c353.637%2c323.703%2c399.772C298.987%2c444.232%2c283.688%2c496.158%2c307.314%2c541.207C332.44%2c589.116%2c383.981%2c620.714%2c437.995%2c617.7' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1100'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='15.28%25' y1='-39.29%25' x2='84.72%25' y2='139.29%25' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1101'%3e%3cstop stop-color='rgba(14%2c 42%2c 71%2c 1)' offset='0'%3e%3c/stop%3e%3cstop stop-color='rgba(158%2c 0%2c 0%2c 1)' offset='0.98'%3e%3c/stop%3e%3cstop stop-color='rgba(158%2c 0%2c 0%2c 1)' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+  }
+  
+  h1, h3 {
+    font-weight: normal;
+  }
+  
+  h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+    font-weight: normal;
+  }
+  
+  .wrapper {
+    padding-top: 40px;
+    width: 25em;
+    margin: 3em auto 5em;
+    text-align: center;
+     background: hsl(210, 36%, 96%) ;
+    background-size: cover;
+    background-position: right top;
+    box-shadow: -5px 5px 20px #111;
+    color: hsl(360, 67%, 44%);
+    margin-top: 180px;
+  }
+  
+  #logo {
+    border-radius:100%;
+    width: 200px;
+    height: auto;
+  }
+  
+  .fa {
+    margin: 2.25em 2em 1em;
+    transform: scale(1.2);
+  }
+  
+  
+  #amount {
+    font-size: 4.125em;
+    font-weight: bold;
+    color:hsl(360, 67%, 44%);
+    min-width: 30%;
+  }
+  
+  .booking-action {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  button {
+    background: none;
+    border: none;
+  }
+  
+  #plus, #minus {
+    font-size: 2.618em;
+    color:black;
+  }
+  
+  #plus:focus, #minus:focus {
+    outline: none;
+  }
+  
+  #plus:hover, #minus:hover {
+    cursor: pointer;
+    color: hsl(360, 67%, 44%);
+  }
+  #amount {
+    color: #111;
+    font-size: 3.2em;
+  } 
+  
+  .date-picker {
+    width:100%;
+    margin: auto;
+  }
+  
+  .date-picker>input {
+    border: none;
+    font-size: 16px;
+    font-family: sans-serif;
+    margin:2px;
+    text-align: center;
+  }
+  
+  .date-picker>input[type="date"] {
+    top: 0;
+    left: -60px;
+  }
+  
+  .date-picker>input[type="time"] {
+    top: 0px;
+    left: 160px;
+  }
+ 
+  
+  #confirm-btn {
+    border: 1px solid hsl(360, 67%, 44%) ;
+    background-color: hsl(210, 36%, 96%);
+    color:  hsl(360, 67%, 44%);
+    padding: 0.6em 3em;
+    text-transform: uppercase;
+    box-shadow: 0 3px 5px #222;
+    margin: 2em;
+  }
+  
+  #confirm-btn:hover {
+    cursor: pointer;
+   color: #fff;
+    background-color:  hsl(360, 67%, 44%);
+    transition: all 0.3s linear;
+
+  }
+  
+
+
+
