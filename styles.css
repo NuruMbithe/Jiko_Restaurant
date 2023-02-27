@@ -233,6 +233,9 @@ header .text .arrow .left, header .text .arrow .right {
     height: 3px;
     width: 100px;
 }
+.color{
+    color: black;
+}
 header .text .arrow .left {
     left: -4%;
 }
