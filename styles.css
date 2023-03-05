@@ -592,3 +592,12 @@ header .arrow-down {
 #colorr{
     color: black;
 }
+
+@media (max-width: 768px) {
+    h2 {
+        font-size: 40px;
+    }
+    h1, h3 {
+        font-size: 27px;
+    }
+  }

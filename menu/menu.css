@@ -142,8 +142,6 @@ p {
 }
 
 
-
-
 .wrap
 {
   margin: 50px auto 0px;
@@ -172,7 +170,6 @@ p {
   right: 1.5rem;
   
 }
-
 
 @media (width: 1024px) {
   .tile{
