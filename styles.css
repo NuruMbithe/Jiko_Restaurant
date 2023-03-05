@@ -204,7 +204,7 @@ header .navigation-bar.show a:hover {
 }
 header .navigation-bar ul li {
     flex: 1;
-    padding: 0 10px;
+    padding: 0 12px;
 }
 header .navigation-bar a {
     text-decoration: none;
@@ -531,7 +531,7 @@ header .arrow-down {
         background-color: #262526;
         overflow: hidden;
         z-index: 20;
-        padding: 40px;
+        padding-left: 20px;
     }
     header .navigation-bar ul {
         display: block;
@@ -593,11 +593,13 @@ header .arrow-down {
     color: black;
 }
 
-@media (max-width: 768px) {
-    h2 {
-        font-size: 40px;
-    }
-    h1, h3 {
-        font-size: 27px;
-    }
-  }
+@media (max-width: 576px) {
+h2 {
+    font-size: 45px;
+  
+}
+h1, h3 {
+    font-size: 27px;
+    
+}
+}    
