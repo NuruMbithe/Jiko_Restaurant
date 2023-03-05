@@ -28,15 +28,9 @@ body {
     background-position: right top;
     box-shadow: -5px 5px 20px #111;
     color: hsl(360, 67%, 44%);
-    margin-top: 180px;
+    margin-top: 140px;
   }
-  
-  @media (max-width: 768px) {
-    .wrapper{
-      width: 15em;
-      margin-top: 60px;
-    }
-  }
+ 
   
   #logo {
     border-radius:100%;
@@ -127,6 +121,18 @@ body {
     background-color:  hsl(360, 67%, 44%);
     transition: all 0.3s linear;
 
+  }
+
+   
+  @media (max-width: 768px) {
+    .wrapper{
+      width: 16em;
+      margin-top: 50px;
+    }
+    #amount{
+      font-size: 2.125em;
+
+    }
   }
   
   
